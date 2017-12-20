@@ -1,1 +1,2 @@
-# spinning-cube-app
+# spinning cube app
+You can rotate a cube
