@@ -20,7 +20,7 @@ class GameViewController: UIViewController {
         setupView()
         setupScene()
         setupCamera()
-        spawnShape()
+        spawnShape(x: 0, y: 0, z: 0)
     }
     
     override var shouldAutorotate: Bool {
